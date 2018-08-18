@@ -1,0 +1,62 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+
+	font-size: 15px;
+	font-family: 'Handlee' , cursive;
+	background-color: white;
+	padding: 10px;
+	margin: 0px;
+}
+h1{
+	font-size: 15px;
+	color: #20bcd5;
+	text-align: center;
+	padding: 18px 0px 18px 0;
+	margin: 0 0 10px 0;
+
+}
+
+h1 span{
+	border: 4px dashed #20bcd5;
+	padding: 10px;
+
+}
+
+p{
+	padding: 0;
+	margin: 0;
+
+}
+.img-circle{
+	width: 200px;
+	height: 200px;
+	border:3px solid white;
+    border-radius: 50px;
+}
+.section{
+	background-color: #fff;
+	padding: 15px;
+	margin-bottom: 10px;
+	border-radius: 10px;
+	margin-right: 50px;
+	margin-left: 50px;
+
+}
+li{
+	margin-bottom: 15px;
+	font-weight: bold;
+
+}
+ul{
+	margin-left: 20px;
+}
+progress {
+	height: 20px;
+	width: 500px;
+	color: #3fb6b2;
+	background: #efefef;
+}
