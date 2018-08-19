@@ -59,4 +59,37 @@ progress {
 	width: 500px;
 	color: #3fb6b2;
 	background: #efefef;
+} 
+form{
+	text-align: center;
+	margin-top: 0;
+}
+
+.submit{
+	background-color: #3fb6b2;
+	padding: 12px 45px;
+	border-radius: 5px;
+	cursor: pointer;
+	color: #ffffff;
+	border: none;
+	outline: none;
+	font-weight: bold;
+
+}
+textarea{
+	height: 100px;
+
+}
+input, textarea{
+	margin-bottom: 10px;
+	font-size: 11pt;
+	padding: 15px 10px 10px;
+	border: 1px solid #cecece;
+	color: #787575;
+	width: 70%;
+	outline: none;
+	
+}
+.quote{
+	text-align: right;
 }
