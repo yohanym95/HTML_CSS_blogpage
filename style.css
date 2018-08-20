@@ -93,3 +93,6 @@ input, textarea{
 .quote{
 	text-align: right;
 }
+a:hover{
+	background-color: black;
+}
