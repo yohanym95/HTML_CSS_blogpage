@@ -6,11 +6,43 @@
 body{
 
 	font-size: 15px;
-	font-family: 'Handlee' , cursive;
-	background-color: white;
+	font-family: 'Handlee', cursive;
+	background-color: #3fb6b2;
 	padding: 10px;
 	margin: 0px;
 }
+
+.logo{
+
+	width: 200px;
+	height: 100px;	
+}
+.image{
+	height: 100px;
+	float:left; 
+}
+
+.nav{
+	height: 100px;
+	padding-top: 20px;
+
+}
+.header{ 	
+	height: 100px;
+    background-color: #fff;
+	padding: 15px;
+	margin-bottom: 10px;
+	border-radius: 10px;
+	margin-right: 50px;
+	margin-left: 50px;
+}
+
+a{
+    
+	margin-right: 30px;
+	margin-left: 40px;
+
+}	
 h1{
 	font-size: 15px;
 	color: #20bcd5;
@@ -60,39 +92,10 @@ progress {
 	color: #3fb6b2;
 	background: #efefef;
 } 
-form{
-	text-align: center;
-	margin-top: 0;
-}
 
-.submit{
-	background-color: #3fb6b2;
-	padding: 12px 45px;
-	border-radius: 5px;
-	cursor: pointer;
-	color: #ffffff;
-	border: none;
-	outline: none;
-	font-weight: bold;
-
-}
-textarea{
-	height: 100px;
-
-}
-input, textarea{
-	margin-bottom: 10px;
-	font-size: 11pt;
-	padding: 15px 10px 10px;
-	border: 1px solid #cecece;
-	color: #787575;
-	width: 70%;
-	outline: none;
-	
-}
 .quote{
 	text-align: right;
 }
 a:hover{
-	background-color: black;
+	background-color: white;
 }
